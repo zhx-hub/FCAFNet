@@ -2,7 +2,7 @@ FCAFNet (Frequency-based Cross-Attention Fusion Network for RGB-D Salient Object
 ==========
 FCAFNet.py file and trained weight parameters will be upload when the paper is accepted.
 
-![image](https://github.com/zhx-hub/FCAFNet/blob/main/img/archi.jpg)
+![image](https://github.com/zhx-hub/FCAFNet/blob/main/img/fre.jpg)
 
 Saliency Maps
 ============

@@ -5,4 +5,4 @@ FCAFNet.py file and trained weight parameters will be upload when the paper is a
 
 Saliency Maps
 ============
-Our saliency maps can be found [here](https://blog.csdn.net/qq_38025219/article/details/100729282](https://pan.baidu.com/s/1-ZR1KnVEnXyJvuOUu9ST7g?)) . code:1d6u
+Our saliency maps can be found [here](https://pan.baidu.com/s/1-ZR1KnVEnXyJvuOUu9ST7g?) . code:1d6u

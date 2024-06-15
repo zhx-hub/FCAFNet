@@ -1,2 +1,3 @@
-Saliency Maps \\
-    Our saliency maps can be found here
+Saliency Maps
+============
+Our saliency maps can be found here
